@@ -43,7 +43,11 @@ routes: {
 
  Future Notes:
 
-    Integrate Firebase Authentication.
+    Integra![WhatsApp Image 2025-07-21 at 05 12 49_b3d8b799](https://github.com/user-attachments/assets/f1cf3185-1ffc-48d3-81b3-600ada2589c6)
+te Firebase Authentication.
     Add phone number validation.
-    Add password validation.
-    Automatically send and verify OTP.
+
+ ![WhatsApp Image 2025-07-21 at 05 12 49_b3d8b799](https://github.com/user-attachments/assets/a5a486ab-7ccd-413f-adeb-2caf53d9e89f)
+
+![WhatsApp Image 2025-07-21 at 05 11 30_ad30bf85](https://github.com/user-attachments/assets/e81d312c-6fff-4fe0-b0c3-51151ebe29f5)
+![WhatsApp Image 2025-07-21 at 05 10 57_67147bf1](https://github.com/user-attachments/assets/52e3ffa5-8aeb-4054-86fa-b8dfd2812500)
